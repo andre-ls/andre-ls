@@ -6,6 +6,8 @@
 
 - Meu sonho é um dia poder utilizar a programação e a conversão de dados em informações para auxiliar outras pessoas a tomarem melhores decisões, performarem melhor, alcançarem seus objetivos e assim fazer um mundo melhor.
 
+- Além de alguns projetos no meu repositório, possuo um blog onde mantenho alguns artigos técnicos de minha autoria. A ideia é tentar explicar assuntos complexos de maneira simples (bem, pelo menos é o que tento). Você pode acessá-lo [aqui](https://andre-ls.github.io/nebula/).
+
 - Nas horas vagas, estudo música e adoro jogar Final Fantasy!
 
 ### Estatísticas
